@@ -48,6 +48,16 @@ To modify the extension:
 2. Reload the extension in `chrome://extensions/`
 3. Refresh the playground page to see your changes
 
+## Privacy Policy
+
+This extension is committed to protecting your privacy. We want to be clear about our data practices:
+
+- **No Data Collection**: We do not collect, store, or transmit any user data
+- **Local Processing**: All operations are performed locally in your browser
+- **No External Communication**: The extension only interacts with the OpenID Connect playground website
+- **Permissions**: The only permission required is `clipboardWrite` which is used solely for copying access tokens to your clipboard
+- **Open Source**: Our code is open source and can be audited on GitHub
+
 ## License
 
 MIT License
