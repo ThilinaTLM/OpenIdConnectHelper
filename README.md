@@ -2,6 +2,9 @@
 
 A browser extension designed to automate and simplify interactions with the OpenID Connect playground at [openidconnect.net](https://openidconnect.net/).
 
+![image](https://github.com/user-attachments/assets/e35abfc2-55cc-4a7c-b590-ee494d72b660)
+
+
 ## Features
 
 - **Quick Authorization**: One-click authorization initiation
