@@ -15,6 +15,12 @@ A browser extension designed to automate and simplify interactions with the Open
 
 ## Installation
 
+### Chrome Web Store
+
+[chromewebstore.google.com/openid-connect-helper](https://chromewebstore.google.com/detail/openid-connect-helper/fbhkhhfhhehcajffclienfbmbinpomeh)
+
+### Manual
+
 1. Clone this repository or download the source code
 2. Open Chrome and navigate to `chrome://extensions/`
 3. Enable "Developer mode" in the top right corner
